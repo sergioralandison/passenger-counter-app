@@ -20,4 +20,39 @@ h2 {
 
 button {
     text-transform: uppercase;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+#increment-btn {
+    background: darkred;
+}
+
+#increment-btn:hover {
+    background: red;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
+#save-btn:hover {
+    background: green;
+}
+
+
+#reset-btn {
+    background: darkblue;
+}
+
+#reset-btn:hover {
+    background: blue;
 }
