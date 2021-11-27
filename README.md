@@ -1,0 +1,4 @@
+- Je veux une application qui compte le nombre de personnes entrant dans une gare. 
+- Je pouvoir ajouter une personne à chaque fois et que je puisse voir un total
+- Je veux également sauvegarder ce totale et l'afficher comme une sorte d'historique des entrés (personnes) précédentes
+- Je veux pouvoir réintialiser mon compteur à zéro
